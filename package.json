@@ -3,14 +3,14 @@
   "version": "0.1.0",
   "description": "Full-stack ecommerce app made with create-react-app client and Node server",
   "engines": {
-    "node": "16.19.0"
+    "node": "16.19.0clear"
   },
   "scripts": {
     "start": "node server",
     "dev:server": "nodemon server",
-    "dev:client": "cd client && npm start",
+    "dev:client": "npm start",
     "dev": "concurrently \"npm run dev:server\" \"npm run dev:client\"",
-    "build": "cd client && npm install && npm run build"
+    "build": "npm install && npm run build"
   },
   "cacheDirectories": [
     "node_modules",
