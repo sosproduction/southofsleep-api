@@ -1,10 +1,14 @@
 const express = require("express");
 const path = require("path");
 const getRoutes = require("./routes");
+const cors = require("cors");
+const app = express();
+
 const PORT = process.env.PORT || 3001;
 
-const app = express();
+
 app.use(express.json());
+app.use(cors());
 
 // Serve the built version of our React app
 app.use(express.static(path.resolve(__dirname, "../client/build")));

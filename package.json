@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "description": "Full-stack ecommerce app made with create-react-app client and Node server",
   "engines": {
-    "node": "14.15.4"
+    "node": "16.14.0"
   },
   "scripts": {
     "start": "node server",
@@ -17,8 +17,15 @@
     "client/node_modules"
   ],
   "dependencies": {
+    "bcrypt": "^5.0.1",
+    "body-parser": "^1.19.2",
+    "cors": "^2.8.5",
     "dotenv": "^8.2.0",
     "express": "^4.16.4",
+    "jsonwebtoken": "^8.5.1",
+    "mysql2": "^2.3.3",
+    "pg": "^8.7.3",
+    "pg-hstore": "^2.3.4",
     "stripe": "^8.131.1",
     "use-shopping-cart": "2.1.0"
   },

@@ -1,0 +1,68 @@
+[
+  {
+    "id": "1tE4nK",
+    "category": "Fine Art",
+    "name": "No.1 The Contemplation of Union",
+    "sku": "sku_313355",
+    "price": 294,
+    "image": "https://via.placeholder.com/350",
+    "description": "The Original Graphite Pencil Work",
+    "description_long": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+    "currency": "USD"
+  },
+  {
+    "id": "IuFGYl",
+    "category": "Sculpture",
+    "name": "Joey Ramone Resin Sculpture",
+    "sku": "sku_313356",
+    "price": 4995,
+    "image": "https://via.placeholder.com/350",
+    "description": "Highly prized sculpture of Joey Ramone eating Chicken Vindaloo",
+    "description_long": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+    "currency": "USD"
+  },
+  {
+    "id": "VfcByl",
+    "category": "Art",
+    "name": "Dee Dee Ramone Artwork",
+    "sku": "sku_622147",
+    "price": 79900,
+    "image": "https://via.placeholder.com/350",
+    "description": "Artwork from Legendary Ramones bassist Dee Dee.",
+    "description_long": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+    "currency": "USD"
+  },
+  {
+    "id": "1yF2Ib",
+    "category": "Fine Art",
+    "name": "Homage to Dali",
+    "sku": "sku_125983",
+    "price": 39999,
+    "image": "https://via.placeholder.com/350",
+    "description": "Graphite pencil homage to surrealist master Dali.",
+    "description_long": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+    "currency": "USD"
+  },
+  {
+    "id": "x5m8g3",
+    "category": "Music",
+    "name": "Blaring Infrared Orchestra plays the hits",
+    "sku": "sku_559961",
+    "price": 42900,
+    "image": "https://via.placeholder.com/350",
+    "description": "New 1930's band hits from Blaring Infrared.",
+    "description_long": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+    "currency": "USD"
+  },
+  {
+    "id": "6Bh3pq",
+    "category": "Music",
+    "name": "Symphony No. 1",
+    "sku": "sku_119140",
+    "price": 3500,
+    "image": "https://via.placeholder.com/350",
+    "description": "Rachel Geisman conducts her Symphony No. 1",
+    "description_long": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+    "currency": "USD"
+  }
+]
