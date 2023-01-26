@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "description": "Full-stack ecommerce app made with create-react-app client and Node server",
   "engines": {
-    "node": "16.19.0clear"
+    "node": "16.19.0"
   },
   "scripts": {
     "start": "node server",
