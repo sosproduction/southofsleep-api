@@ -10,7 +10,7 @@
     "dev:server": "nodemon server",
     "dev:client": "npm start",
     "dev": "concurrently \"npm run dev:server\" \"npm run dev:client\"",
-    "build": "npm install && npm run build"
+    "build": "npm run build"
   },
   "cacheDirectories": [
     "node_modules",
