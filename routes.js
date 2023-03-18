@@ -2,7 +2,8 @@ require('dotenv').config();
 const express = require("express");
 const products = require('./products.json');
 const stripe = require('stripe')(process.env.STRIPE_API_SECRET);
-const { validateCartItems } = require("use-shopping-cart/src/serverUtil");
+//const { validateCartItems } = require("use-shopping-cart/src/serverUtil");
+const { validateCartItems } = require("use-shopping-cart/utilities");
 
  // Configure database connection. Move to .env file?
 const config = require('./config');
